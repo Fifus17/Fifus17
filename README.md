@@ -25,9 +25,9 @@ Interact with contextual chatbot for basic small talk and weather forecasts. Wit
 Angular project, integrated with Firebase, allowing users to explore, book, and review exciting travel trips. With authentication, role-based access control, and admin panels, managing trips and user interactions is made easy.
 
 ## Local Cinema 🎥
-**Repo:** [https://github.com/Fifus17/CinemaDatabaseProject](https://github.com/Fifus17/CinemaDatabaseProject)
+**Repo:** [https://github.com/Zolzolekkk/CinemaDatabaseProject](https://github.com/Zolzolekkk/CinemaDatabaseProject)
 
-MERNG tech stack application for a local cinema. It allows users to buy tickets for upcoming seances with or without account. 
+MERN tech stack application for a local cinema. It allows users to buy tickets for upcoming seances with or without account. 
 
 
 # Languages and Tools
