@@ -53,6 +53,7 @@ MERN tech stack application for a local cinema. It allows users to buy tickets f
 - <img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.png" alt="linkedin-icon" width=18 height=12> Tailwind
 - <img align="center" src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="linkedin-icon" width=14 height=14> NodeJS
 - <img align="center" src="https://cdn-icons-png.flaticon.com/512/6132/6132220.png" alt="linkedin-icon" width=14 height=14> Scala
+- <img align="center" src="https://miro.medium.com/v2/resize:fit:700/1*-uckV8DOh3l0bCvqZ73zYg.png" alt="linkedin-icon" width=28 height=14> Spring Boot
 - <img align="center" src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="linkedin-icon" width=14 height=14> Django
 - <img align="center" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/graphql_playground_macos_bigsur_icon_190105.png" alt="linkedin-icon" width=14 height=14> GraphQL
 - <img align="center" src="https://prismatic.io/docs/img/components/icons/mongo.png" alt="linkedin-icon" width=14 height=14> MongoDB
@@ -62,7 +63,6 @@ MERN tech stack application for a local cinema. It allows users to buy tickets f
 
 - <img align="center" src="https://www.svgrepo.com/download/331370/docker.svg" alt="linkedin-icon" width=14 height=14> Docker
 - <img align="center" src="https://i0.wp.com/kosiorowski.net/wp-content/uploads/2013/11/hibernate.png?ssl=1" alt="linkedin-icon" width=14 height=14> JPA Hibernate
-- <img align="center" src="https://miro.medium.com/v2/resize:fit:700/1*-uckV8DOh3l0bCvqZ73zYg.png" alt="linkedin-icon" width=28 height=14> Spring Boot
 - <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968259.png" alt="linkedin-icon" width=14 height=14> Haskell
 - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" alt="linkedin-icon" width=14 height=14> R
 - <img align="center" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="linkedin-icon" width=14 height=14> C#
