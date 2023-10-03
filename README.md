@@ -29,7 +29,7 @@ Angular project, integrated with Firebase, allowing users to explore, book, and 
 
 MERN tech stack application for a local cinema. It allows users to buy tickets for upcoming seances with or without account. 
 
-
+<!---
 # Languages and Tools
 
 **Languages and Technologies I feel very comfortable with:**
@@ -68,7 +68,7 @@ MERN tech stack application for a local cinema. It allows users to buy tickets f
 - <img align="center" src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="linkedin-icon" width=14 height=14> C#
 - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/2048px-Kotlin_Icon_2021.svg.png" alt="linkedin-icon" width=12 height=12> Kotlin
 - <img align="center" src="https://cdn.worldvectorlogo.com/logos/julia-1.svg" alt="linkedin-icon" width=14 height=14> Julia
-
+--->
 
 
 <div align="center">
