@@ -17,6 +17,11 @@ Welcome to my GitHub profile! I'm passionate Computer Science student who loves 
 
 Interact with contextual chatbot for basic small talk and weather forecasts. With authentication and integrated database, all your chats are stored and can be accessed from different devices. For users without account, their history is stored in browser's local storage.
 
+## Reactive Image Processing 🖼️
+**Repo:** [https://github.com/Fifus17/Reactive-Image-Processing-App](https://github.com/Fifus17/Reactive-Image-Processing-App)
+
+Minimize your collection of photos with this full stack application in a fully reactive way. Application supports zip, folders and pagination. All images and their minimized version are stored in a DB and can be accessed anytime You want.
+
 ## Travel Agency 🌍
 **Repo:** [https://github.com/Fifus17/Travel-Agency-App](https://github.com/Fifus17/Travel-Agency-App)
 
