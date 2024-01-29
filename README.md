@@ -8,7 +8,19 @@ Welcome to my GitHub profile! I'm passionate Computer Science student who loves 
 
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="mail=icon" width=14 height=14> filipdziurdzia2002@gmail.com
 
-# Projects
+# Python Projects
+
+## RTV Stores Web Scraper 📺
+**Repo:** [https://github.com/Fifus17/RTV-Stores-Web-Scraper](https://github.com/Fifus17/RTV-Stores-Web-Scraper)
+
+RTV Stores Web Scraper is a Django-based web application that allows users to search for electronic products across various Polish RTV (Radio, Television, and Electronics) stores. The application uses Selenium for web scraping to fetch product information from supported stores and allows user to compare offers in one place.
+
+## Python Code Comment Generator 🐍
+**Repo:** [https://github.com/Fifus17/Python-Code-Comment-Generator](https://github.com/Fifus17/Python-Code-Comment-Generator)
+
+Python Code Comment Generator is a desktop application built with Tkinter that allows users to generate comments for their Python code using OpenAI's powerful language model. Users can paste their Python code into the input text area, and the app will provide comments for each line, explaining what the code does.
+
+# Full-stack Projects
 
 ## Weather Chatbot 🤖
 **Repo:** [https://github.com/Fifus17/Weather-ChatBot](https://github.com/Fifus17/Weather-ChatBot)
